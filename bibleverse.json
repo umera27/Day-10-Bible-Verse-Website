@@ -1,0 +1,104 @@
+[
+ 
+       {
+           "title":"Anxiety",
+           "lists":["1 Peter 5:7","Philippians 4:6","Psalm 55:22"],
+           "contents":["casting all your anxieties on him, because he cares for you.","do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.","Cast your burden on the Lord, and he will sustain you; he will never permit the righteous to be moved."]
+       },
+       {
+           "title":"Anger",
+           "lists":["Ephesians 4:26","Proverbs 14:29","James 1:19-20"],
+           "contents":["Be angry and do not sin; do not let the sun go down on your anger,","Whoever is slow to anger has great understanding, but he who has a hasty temper exalts folly.","Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger; for the anger of man does not produce the righteousness of God."]
+       },
+       {
+            "title":"Compassion",
+           "lists":["Matthew 9:36","Luke 6:36","Colossians 3:12"],
+           "contents":["When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd.","Be merciful, even as your Father is merciful.","Put on then, as God's chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience," ]
+       },
+       {
+            "title":"Disgust (Abhor Evil)",
+           "lists":["Proverbs 29:27","Psalm 101:3","Romans 12:9"],
+           "contents":["An unjust man is an abomination to the righteous, but one whose way is straight is an abomination to the wicked.","I will not set before my eyes anything that is worthless. I hate the work of those who fall away; it shall not cling to me.","Let love be genuine. Abhor what is evil; hold fast to what is good."]
+       },
+       {
+            "title":"Fear",
+           "lists":["Isaiah 41:10","Deuteronomy 31:6","Psalm 23:4"],
+           "contents":["fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.","Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you.","Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me."]
+       },
+       {
+            "title":"Happiness (Joy)",
+           "lists":["Psalm 16:11","Proverbs 17:22","Philippians 4:4"],
+           "contents":["You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore.","A joyful heart is good medicine, but a crushed spirit dries up the bones.","Rejoice in the Lord always; again I will say, rejoice."]
+       },
+       {
+            "title":"Hope",
+           "lists":["Romans 15:13","Hebrews 6:19","Jeremiah 29:11"],
+           "contents":["May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.","We have this as a sure and steadfast anchor of the soul, a hope that enters into the inner place behind the curtain,","For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope."]
+       },
+       {
+            "title":"Peace",
+           "lists":["John 14:27","Philippians 4:7","Isaiah 26:3"],
+           "contents":["Peace I leave with you; my peace I give to you. Not as the world gives do I give to you. Let not your hearts be troubled, neither let them be afraid.","and the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.","You keep him in perfect peace whose mind is stayed on you, because he trusts in you."]
+       },
+       {
+            "title":"Love",
+           "lists":["1 Corinthians 13:4-7","John 3:16","1 John 4:8"],
+                      "contents":["Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things.","For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.","Anyone who does not love does not know God, because God is love."]
+       },
+       {
+            "title":"Strength",
+           "lists":["Philippians 4:13","Isaiah 40:29","Psalm 46:1"],
+           "contents":["I can do all things through him who strengthens me.","He gives power to the faint, and to him who has no might he increases strength.","God is our refuge and strength, a very present help in trouble."]
+          
+    },
+    {     "title":"Faith",
+           "lists":["Hebrews 11:1","Romans 10:17","Matthew 17:20"],
+           "contents":["Now faith is the assurance of things hoped for, the conviction of things not seen.","So faith comes from hearing, and hearing through the word of Christ.","He said to them, “Because of your little faith. For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move, and nothing will be impossible for you.” "]
+       },
+       {
+           "title":"Forgiveness",
+           "lists":["Matthew 6:14-15","Ephesians 4:32","Colossians 3:13"],
+           "contents":["For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others their trespasses, neither will your Father forgive your trespasses.","Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.","bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive."]
+       },
+       {   
+           "title":"Humility",
+           "lists":["Philippians 2:3","James 4:10","Micah 6:8"],
+           "contents":["Do nothing from selfish ambition or conceit, but in humility count others more significant than  yourselves.","Humble yourselves before the Lord, and he will exalt you.","He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"]
+       },
+       {
+            "title":"Patience",
+           "lists":["Galatians 5:22","Romans 12:12","Proverbs 15:18"],
+           "contents":["But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,","Rejoice in hope, be patient in tribulation, be constant in prayer.","A hot-tempered man stirs up strife, but he who is slow to anger quiets contention."]
+       },
+       {
+            "title":"Wisdom",
+           "lists":["Proverbs 4:7","James 1:5","Proverbs 3:13"],
+           "contents":["The beginning of wisdom is this: Get wisdom, and whatever you get, get insight.","If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him.","Blessed is the one who finds wisdom, and the one who gets understanding," ]
+       },
+       {
+            "title":"Truth",
+           "lists":["John 8:32","John 14:6","Psalm 119:160"],
+           "contents":["and you will know the truth, and the truth will set you free.”","Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.","The sum of your word is truth, and every one of your righteous rules endures forever."]
+       },
+       {
+            "title":"Guidance",
+           "lists":["Proverbs 3:5-6","Psalm 32:8","Isaiah 48:17"],
+                      "contents":["Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.","I will instruct you and teach you in the way you should go; I will counsel you with my eye upon you.","Thus says the Lord, your Redeemer, the Holy One of Israel: “I am the Lord your God, who teaches you to profit, who leads you in the way you should go."]
+       },
+       {
+            "title":"Grace",
+           "lists":["Ephesians 2:8-9","Romans 5:2","2 Corinthians 12:9"],
+           "contents":["For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.","Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God.","But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me."]
+       },
+       {
+           "title":"Prayer",
+           "lists":["1 Thessalonians 5:17","Philippians 4:6-7","Matthew 7:7"],
+           "contents":["pray without ceasing,","do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.","“Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you."]
+       },
+       {
+            "title":"Repentance",
+           "lists":["Acts 3:19","2 Peter 3:9","Luke 13:3"],
+           "contents":["Repent therefore, and turn back, that your sins may be blotted out, that times of refreshing may come from the presence of the Lord,","The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.","No, I tell you; but unless you repent, you will all likewise perish."]
+       }
+    
+]

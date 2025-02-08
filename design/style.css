@@ -1,0 +1,222 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Space Mono',monospace;
+}
+h1{
+    text-align: center;
+    padding: 1em;
+}
+
+.container{
+    margin-top: 3em;
+    border: 1px solid whitesmoke;
+    box-shadow: 5px 10px 18px gray;
+    border-radius: 1em;
+    height: auto;    
+    margin: 1em;
+    font-family: 'Space Mono',monospace;
+}
+h1{
+    text-shadow: 3px 3px 5px white;
+}
+.content-header{
+    border: none;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    padding: 1em;
+}
+.content-header button{
+   float: right;
+   margin-top: -1em;
+   font-family: 'Space Mono',monospace;
+   background-image: url('arrows.png');
+   background-size: cover;
+   border-radius: 100px;
+   border: 1px solid black;   
+   width: 40px;
+   height: 40px;
+   filter: invert(1); 
+}
+.content-body{
+    border: none;
+    padding: .5em;
+    display: none;
+}
+.content-body button{
+   display: inline;
+   padding: .5em;
+   margin-left: .5em;
+   margin-bottom: .5em;
+   border: none;
+   background-color: gray;
+   font-weight: bolder;
+   color: white;
+   border-radius: .3em;
+   text-shadow: 2px 3px 9px white;
+}
+.content-body:hover> :not(:hover){
+   filter: blur(1px);
+   opacity: 0.4;
+   
+}
+p{
+    border: 1px solid black;
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    min-height: 100px;
+    border-radius: 15px;
+    font-weight: bolder;
+    display: none;
+    border: 1px solid white;
+}
+
+.content{
+    padding: 1em;
+}
+img{
+    width: 60px;
+    height: 60px;    
+    object-fit: cover;    
+    float: right;        
+    
+}
+.select-container{
+    float: left;
+    position: absolute;
+    
+}
+
+.content-body button:hover{
+    background-color:hsl(75, 94%, 57%);
+    color:hsl(0, 0%, 8%);
+    border: none;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+.background{
+    margin-top: 3em;   
+    border: none;
+    padding: 2em;
+    width: 100%;
+    
+}
+.center-Div{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+       }
+.select-container {
+            
+            position: relative;           
+            width: 200px;
+            align-items: center;
+            margin-top: 2em;
+        }
+
+        
+#selectColor {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid #6c5ce7;
+            border-radius: 8px;
+            background-color: #fff;
+            color: #2d3436;
+            appearance: none; 
+            cursor: pointer;
+            transition: all 0.3s ease;
+            
+        }
+        
+#selectColor:hover
+ {
+            border-color: #a29bfe;
+            box-shadow: 0 0 8px rgba(108, 92, 231, 0.3);
+    }
+
+        
+  #selectColor:focus {
+            outline: none;
+            border-color: #6c5ce7;
+            box-shadow: 0 0 12px rgba(108, 92, 231, 0.5);
+        }
+
+        
+.select-container::after {
+            content: '▼';
+            position: absolute;
+            top: 50%;
+            right: 12px;
+            transform: translateY(-50%);
+            pointer-events: none;
+            color: #6c5ce7;
+            font-size: 12px;
+            transition: color 0.3s ease;
+        }
+
+        
+.select-container:hover::after
+ {
+            color: #a29bfe;
+        }         
+        
+@media(min-width:900px){
+     .container{
+         
+         margin: 0 auto;
+         width: 90%;
+         padding: 5em;
+         
+     }
+     h1{
+         font-size: 40px;
+     }
+     h4{
+         font-size: 27px;
+         
+     }
+     .content-header button{
+     padding: 1em 2.5em;
+     width: 50px;
+     height: 50px;
+     font-size: 10px;
+     margin-bottom: 1.5em;
+     }
+     .content-body button{
+         margin-left: .5em;
+         padding: 1em 1.5em;
+         font-size: 18px;
+         border-radius: 10px;
+         background-color:gray;
+         border: none;
+         font-family: 'Space Mono',monospace;
+         font-weight: bolder;
+     }
+     p{
+         font-size:26px ;
+         border: 1px solid white;
+         padding: 3em;
+     }
+     
+     img{
+         width: 120px;
+         height: 120px;
+         margin-top: -4em;
+     }
+     h3{
+         font-size: 30px; 
+     }
+     .select-container{
+         width: 300px;
+     }
+}
